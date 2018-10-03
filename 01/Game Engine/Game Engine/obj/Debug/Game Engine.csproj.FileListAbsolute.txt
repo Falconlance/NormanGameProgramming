@@ -1,0 +1,13 @@
+C:\Users\FalconLance\Desktop\Game Program\NormanGameProgramming\01\Game Engine\Game Engine\obj\Debug\Game Engine.csprojAssemblyReference.cache
+C:\Users\FalconLance\Desktop\Game Program\NormanGameProgramming\01\Game Engine\Game Engine\obj\Debug\Game_Engine.Properties.Resources.resources
+C:\Users\FalconLance\Desktop\Game Program\NormanGameProgramming\01\Game Engine\Game Engine\obj\Debug\Game Engine.csproj.GenerateResource.cache
+C:\Users\FalconLance\Desktop\Game Program\NormanGameProgramming\01\Game Engine\Game Engine\obj\Debug\Game Engine.csproj.CoreCompileInputs.cache
+C:\Users\FalconLance\Desktop\Game Program\NormanGameProgramming\01\Game Engine\Game Engine\bin\Debug\Game Engine.exe.config
+C:\Users\FalconLance\Desktop\Game Program\NormanGameProgramming\01\Game Engine\Game Engine\bin\Debug\Game Engine.exe
+C:\Users\FalconLance\Desktop\Game Program\NormanGameProgramming\01\Game Engine\Game Engine\bin\Debug\Game Engine.pdb
+C:\Users\FalconLance\Desktop\Game Program\NormanGameProgramming\01\Game Engine\Game Engine\obj\Debug\Game Engine.exe
+C:\Users\FalconLance\Desktop\Game Program\NormanGameProgramming\01\Game Engine\Game Engine\obj\Debug\Game Engine.pdb
+C:\Users\FalconLance\Desktop\Game Program\NormanGameProgramming\01\Game Engine\Game Engine\bin\Debug\hellbackground.jpg
+C:\Users\FalconLance\Desktop\Game Program\NormanGameProgramming\01\Game Engine\Game Engine\bin\Debug\perhaps.jpg
+C:\Users\FalconLance\Desktop\Game Program\NormanGameProgramming\01\Game Engine\Game Engine\obj\Debug\Game_Engine.Engine.resources
+C:\Users\FalconLance\Desktop\Game Program\NormanGameProgramming\01\Game Engine\Game Engine\bin\Debug\Doot.jpg
